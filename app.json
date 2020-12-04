@@ -1,0 +1,12 @@
+{
+  "name": "Prova2",
+  "displayName": "Prova2",
+  "expo": {
+    "name": "Prova2",
+    "slug": "Prova2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
